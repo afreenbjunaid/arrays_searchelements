@@ -1,0 +1,10 @@
+{
+  "java.home": "${env:JAVA_HOME}",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-26",
+      "path": "${env:JAVA_HOME}",
+      "default": true
+    }
+  ]
+}
